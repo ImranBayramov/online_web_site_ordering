@@ -1,0 +1,14 @@
+.menu_div{
+    width:100%;
+    height:660px;
+    background-color:lightgrey;
+    /*position: absolute;*/
+}
+
+.test{
+    /*margin-top:150px;*/
+    width:90%;
+    /*position: absolute;*/
+    background-color:white;
+    margin-left:55px;
+}

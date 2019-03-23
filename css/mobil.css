@@ -1,0 +1,163 @@
+@import "style.css";
+@media screen and (max-width: 770px){
+  .middle_info{
+    width: 100%;
+    margin:28% 0;
+  }
+  .middle_h1{
+    font-size:25px;
+    margin:0 15px;
+    padding-bottom: 20px;
+  }
+   .middle_p{
+    font-size:18px;
+    margin:0 15px;
+    padding-bottom: 20px;
+    font-weight:500;
+  }
+  .left_text h1, .tt h1, .info_txt{
+    font-size:22px;
+  }
+  .right_img img{
+    margin-top:-30px !important;
+  }
+
+  .forms_class{
+    width:100%;
+  }
+.text_inp h1{
+  font-size:25px;
+}
+.what_we_do_row{
+  border:none;
+}
+.what_we_do_row a{
+  margin-left:40%;
+}
+.img_example img{
+  height:200px !important;
+}
+ .watch_video, .img_watch{
+   display: block;
+   width:105%;
+ }
+ .btns_order a button {
+   margin-top:5px;
+ }
+ .idea_txt{
+   margin-top:0 !important;
+ }
+  .frame{
+    display: block;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:10%;
+    width:90%;
+    position:relative;
+  }
+}
+@media screen and (max-width: 425px) {
+  main{
+    height:450px;
+  }
+  .middle_info{
+    width: 60%;
+    padding: 20px 0;
+    top:-20% !important;
+    /*background-color:red;*/
+  }
+  .a{
+    height:450px;
+  }
+  .middle_h1{
+    font-size:20px;
+  }
+  .middle_p{
+    font-size:16px;
+  }
+  .middle_btn{
+     padding: 10px 15px;
+    font-size:14px;
+  }
+.telephone{
+  display: none;
+}
+  .middle_info{
+    width: 100%;
+    margin:50% 0 !important;
+  }
+  footer{
+    padding: 60px 0;
+  }
+  .text_p{
+    width:100%;
+    margin-top:-30px;
+    text-align: center;
+  }
+  .info_txt{
+    font-size:20px;
+  }
+  .text_right{
+    width:60%;
+    margin:0 80px;
+  }
+.learn_logo,.learn_right{
+  width:100%;
+}
+.learn_logo{
+  margin-top:15px;
+}
+.learn_right{
+  margin-top:25px;
+}
+  .what_we_do_row a{
+    display: block;
+    margin:0 auto;
+  }
+
+}
+@media screen and (max-width: 360px) {
+  .telephone{
+    display: none;
+  }
+  .middle_info{
+    width: 100%;
+    margin:50% 0 !important;
+  }
+  .middle_info{
+    width: 100%;
+    padding: 20px 0;
+    top:-12% !important;
+  }
+  .middle_h1{
+    font-size:18px;
+  }
+  .middle_p{
+    font-size:15px;
+  }
+  .middle_btn{
+    padding: 8px 15px;
+    font-size:12px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .middle_info{
+    width: 100%;
+    padding: 20px 0;
+    top:-5% !important;
+  }
+  .telephone{
+    display: none;
+  }
+  .text_right{
+    width:90%;
+    margin:0 0;
+  }
+  footer{
+    padding:80px 0 !important;
+  }
+  .text_p{
+    margin-top:-40px;
+  }
+}
